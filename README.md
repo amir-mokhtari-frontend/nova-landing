@@ -17,3 +17,7 @@ A modern SaaS landing page designed in Figma and built with Next.js + Tailwind C
 - Responsive landing page
 - Clean UI and reusable components
 - Fast performance and SEO-friendly structure
+## Screenshots
+![Screenshot 1](Screenshot_۲۰۲۵۱۱۳۰-۰۹۵۵۵۵_Chrome.jpg)
+![Screenshot 2](Screenshot_۲۰۲۵۱۱۳۰-۰۹۵۵۲۷_Chrome.jpg)
+![Screenshot 3](Screenshot_۲۰۲۵۱۱۳۰-۰۹۵۴۸_Chrome.jpg)
