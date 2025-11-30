@@ -8,5 +8,5 @@ A modern SaaS landing page designed in Figma and built with Next.js + Tailwind C
 - Tailwind CSS
 
 ## Live Demo
-(coming soon)
+https://YOUR-VERCEL-LINK.vercel.app
 
